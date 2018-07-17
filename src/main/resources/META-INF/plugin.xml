@@ -30,9 +30,9 @@
 
     <actions>
 
-        <group id="MyPlugin.SampleMenu" text="_Sample Menu" description="Sample menu">
+        <group id="idea-plugin-hello-world-demo.SampleMenu" text="_Sample Menu" description="Sample menu of idea-plugin-hello-world-demo">
             <add-to-group group-id="MainMenu" anchor="last"/>
-            <action id="action.popup" class="actions.HelloAction" text="_Popup" description="Popup a message"/>
+            <action id="idea-plugin-hello-world-demo.action.popup" class="actions.HelloAction" text="_Popup" description="Popup a message"/>
         </group>
 
     </actions>
