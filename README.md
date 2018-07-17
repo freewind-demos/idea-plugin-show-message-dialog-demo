@@ -1,7 +1,8 @@
 Idea Plugin Hello World Demo
 =======================
 
-Run plugin in IDEA:
+Run plugin in IDEA
+------------------
 
 ```
 ./gradlew runIde
